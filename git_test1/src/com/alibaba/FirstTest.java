@@ -13,5 +13,6 @@ public class FirstTest {
 
     public void test(){
         System.out.println("第二次修改");
+        System.out.println("clone后推送到远程");
     }
 }
