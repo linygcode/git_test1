@@ -10,4 +10,8 @@ public class FirstTest {
         System.out.println("hello,git");
 
     }
+
+    public void test(){
+        System.out.println("第二次修改");
+    }
 }
